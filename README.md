@@ -42,4 +42,4 @@ When the user enters a location or selects a state, the application dispatches a
 
 
 Credits
-This application was created by Team Phi. The weather information is provided by OpenWeather API
+This application was created by Team Phi. The weather information is provided by OpenWeather API 
