@@ -41,7 +41,6 @@ const ChooseState = () => {
   };
   useEffect(() => {
     fetchData();
-    // eslint-disable-next-line
   }, [city]);
 
   return (

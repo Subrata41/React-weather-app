@@ -1,7 +1,8 @@
 import React, { useState, useEffect } from "react";
 import { UseWeatherAppContext } from "../Context/Context";
-
 import SingleCardComponents from "./SingleCard";
+
+
 const WeekInfoCard = () => {
   let {
     state: { daily },
