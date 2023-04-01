@@ -17,7 +17,7 @@ const WeekInfoCard = () => {
   };
   useEffect(() => {
     updateCurrent();
-    // eslint-disable-next-line
+
   }, [daily, selectedCard]);
   return (
     <>

@@ -140,8 +140,10 @@
     "admin_name": "Uttar Pradesh", 
     "capital": "", 
     "population": "2496970", 
-    "population_proper": "2496970"
+    "population_proper":"2496970"
+  
   }, 
+  
   {
     "city": "Nāgpur", 
     "lat": "21.1539", 

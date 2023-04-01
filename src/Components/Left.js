@@ -16,7 +16,6 @@ const Left = () => {
   } = UseWeatherAppContext();
 
   if (!current) return <div>Loading...</div>;
-  //console.log('current',city)
   const weekdayIndex = dayjs.unix(current.dt).day();
   return (
     <>

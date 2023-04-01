@@ -15,7 +15,6 @@ const ChooseState = () => {
     const selectedCity = cities.filter(
       (city) => city.city === e.target.value
     )[0];
-    //console.log('selectedCity', selectedCity);
     dispatch({
       type: "SET_CITY",
       payload: { ...selectedCity },
